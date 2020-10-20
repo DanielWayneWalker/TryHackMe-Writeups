@@ -2,3 +2,7 @@ fill
 [Image]https://github.com/DanielWayneWalker/TryHackMe-Writeups/blob/main/OWASP%20Top%2010/img/test.PNG[/Image]
 
 ![alt text](https://github.com/DanielWayneWalker/TryHackMe-Writeups/blob/main/OWASP%20Top%2010/img/test.PNG)
+
+![Alt text](https://github.com/DanielWayneWalker/TryHackMe-Writeups/blob/main/OWASP%20Top%2010/img/test.PNG?raw=true "Optional Title")
+
+![Alt text](/img/test.PNG?raw=true "Optional Title")
